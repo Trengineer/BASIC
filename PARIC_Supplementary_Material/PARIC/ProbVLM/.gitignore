@@ -1,0 +1,12 @@
+/alvis_jobs/
+/berzelius_jobs/
+/Datasets/
+/ckpt/
+/prob2/
+/src/older_files/
+__pycache__/
+src/.ipynb_checkpoints/
+**.pkl
+**.zip
+**.npy
+/src/Attention_maps_CUB.ipynb
